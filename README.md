@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naufal Hakim</h1>
-<h3 align="center">I'm Fresh Graduate passionate backend</h3>
+<h3 align="center">I'm Fresh Graduate passionate Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalhakm&label=Profile%20views&color=0e75b6&style=flat" alt="naufalhakm" /> </p>
