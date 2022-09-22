@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalhakm&label=Profile%20views&color=0e75b6&style=flat" alt="naufalhakm" /> </p>
 
-- 🌱 I’m currently learning **Node JS, Golang**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **naufalhakim6b@gmail.com**
 
